@@ -1,0 +1,35 @@
+date: 2013-09-30 02:38:41.053
+argv: node /root/.nvm/v0.10.18/bin/hexo generate
+os: Linux 2.6.32-358.11.1.el6.x86_64 linux x64
+version:
+  hexo: 2.2.0
+  http_parser: 1.0
+  node: 0.10.18
+  v8: 3.14.5.9
+  ares: 1.9.0-DEV
+  uv: 0.10.15
+  zlib: 1.2.3
+  modules: 11
+  openssl: 1.0.1e
+---
+
+[debug] 02:38:40.728 Configuration file load successfully
+[debug] 02:38:40.730 Version info checked successfully
+[debug] 02:38:40.731 Loading the database...
+[debug] 02:38:40.957 Theme layout loaded
+[debug] 02:38:40.971 Processed: _posts/debug.log
+[debug] 02:38:41.000 Theme source loaded
+[debug] 02:38:41.004 Theme configuration loaded
+[debug] 02:38:41.007 Theme i18n loaded
+[error] 02:38:41.019 { rawMessage: 'Unable to parse.',
+  parsedLine: 6,
+  snippet: 'comments:true',
+  parsedFile: null,
+  message: 'Unable to parse.',
+  domain: 
+   { domain: null,
+     _events: { error: [Function] },
+     _maxListeners: 10,
+     members: [],
+     _disposed: true },
+  domainThrown: true }
